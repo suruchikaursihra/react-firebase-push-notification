@@ -2,11 +2,11 @@
 
 this performs the simple Firebase Push Notification [ FCM ].
 
-![Alt text](/home/suruchi.sihra/Downloads/image_2020_03_30T17_52_51_039Z.png?raw=true)
+![Alt text](public/image_2020_03_30T17_47_23_360Z.png?raw=true)
 
 you can send notification messages like 
 
-![Alt text](/home/suruchi.sihra/Downloads/image_2020_03_30T17_47_23_360Z.png?raw=true)
+![Alt text](public/image_2020_03_30T17_47_23_360Z.png?raw=true)
 
 
 
